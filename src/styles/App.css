@@ -1,15 +1,22 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
     color: #27aedb;
     text-align: center;
-    }
-    
+}
+
 h5 {
     color: #0d71a0;
-    text-align:  center;
+    text-align: center;
 }
 
 input {
-    margin-left: 40%;
+    /* margin-left: 40%; */
 }
 
 button {
